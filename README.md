@@ -1,2 +1,1 @@
-# READme
-El readme
+#Buenas! Soy Gonzalo Lázaro. Bienvenido a mi perfil
